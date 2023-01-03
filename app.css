@@ -27,6 +27,11 @@ h1 {
     -webkit-font-smoothing: antialiased;
 }
 
+#reinicio{
+    background-color: black;
+    color: white;
+    border: 1px solid rgb(225, 255, 0);
+}
 @-webkit-keyframes breathing {
     0% {
         -webkit-transform: scale(0.9);
